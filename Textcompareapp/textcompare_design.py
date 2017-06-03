@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Personal\Development\Python\GUI\QT_Design_Textcompare\textcompare_design.ui'
 #
 # Created by: PyQt5 UI code generator 5.8.2
 #
